@@ -8,7 +8,7 @@ EECS 473 is an MDE (Major Design Experience) Course. It is an equivalent to a Ca
 ## Description
 
 ChordSync: 
-Enjoy fun and interactive guitar learning via the animated fretboard for visual guidance. Features a simple and intuitive web interface and feedback system to refine your skills.
+Enjoy fun and interactive guitar learning via the animated fretboard for visual guidance. Features a simple and intuitive web interface and feedback system to refine your skills. 
 
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/ee1aa21e-47be-41c8-9aa8-f68112b9fef3" />
 
@@ -26,7 +26,9 @@ Enjoy fun and interactive guitar learning via the animated fretboard for visual 
 * <img width="443" alt="image" src="https://github.com/user-attachments/assets/ec217b8b-7c3b-47b8-9621-f648baa579b4" />
   <img width="747" alt="image" src="https://github.com/user-attachments/assets/e4c7dd7c-77de-4e6b-a7c9-f3497cab553a" />
 * Lots of 3-D Printed Parts
-* Headphone Guitar Amp, we used a random one from Amazon.
+* Headphone Guitar Amp 
+* Generic USB Speaker for audio passthrough
+* Generic Electric Guitar (literally a knockoff, cheap one from a local used music store)
   
 ## Software Libraries Used
 
