@@ -1,6 +1,7 @@
 # ChordSync - An Intelligent Electric Guitar
 
-Final Project for [EECS 473]([https://www.eecs.umich.edu/courses/eecs373/description.html](https://www.eecs.umich.edu/courses/eecs473/overview.html)) at the University of Michigan - Advanced Embedded Systems
+Final Project for [EECS 473]([https://www.eecs.umich.edu/courses/eecs373/description.html](https://www.eecs.umich.edu/courses/eecs473/overview.html)) at the University of Michigan - Advanced Embedded Systems.
+EECS 473 is an MDE (Major Design Experience) Course. It is an equivalent to a Capstone Project. This course/project was done in my final semester of my Undergraduate Degree in Computer Engineering (Fall 2024).
 
 <img width="934" alt="image" src="https://github.com/user-attachments/assets/24a45d8f-83ee-4f4a-b356-0967c5ae15a7" />
 
