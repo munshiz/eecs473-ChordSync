@@ -1,8 +1,8 @@
 # ChordSync - An Intelligent Electric Guitar
 
-![image](https://github.com/munshiz/373PillDispenser/assets/32941432/359defa3-f660-41f4-8495-b03be2a7bd7f)
-
 Final Project for [EECS 473]([https://www.eecs.umich.edu/courses/eecs373/description.html](https://www.eecs.umich.edu/courses/eecs473/overview.html)) at the University of Michigan - Advanced Embedded Systems
+
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/24a45d8f-83ee-4f4a-b356-0967c5ae15a7" />
 
 ## Description
 
@@ -13,7 +13,7 @@ Enjoy fun and interactive guitar learning via the animated fretboard for visual 
 
 ![wee](https://github.com/user-attachments/assets/a658e5c8-e2b1-432a-829a-7cd413cb2eaf)
 
-##Web Interface:
+## Web Interface:
 <img width="736" alt="image" src="https://github.com/user-attachments/assets/f3174c10-37ba-4979-8259-88e0709006ab" />
 
 ## Hardware
@@ -23,12 +23,10 @@ Enjoy fun and interactive guitar learning via the animated fretboard for visual 
 * STM32H5 MCU
 * Various Custom PCBs:
   <img width="443" alt="image" src="https://github.com/user-attachments/assets/ec217b8b-7c3b-47b8-9621-f648baa579b4" />
-<img width="747" alt="image" src="https://github.com/user-attachments/assets/e4c7dd7c-77de-4e6b-a7c9-f3497cab553a" />
+  <img width="747" alt="image" src="https://github.com/user-attachments/assets/e4c7dd7c-77de-4e6b-a7c9-f3497cab553a" />
 * Lots of 3-D Printed Parts
 * Headphone Guitar Amp, we used a random one from Amazon.
   
-![image](https://github.com/munshiz/373PillDispenser/assets/32941432/3363024f-e48a-49e5-be43-8be0dd7f632b)
-
 ## Software Libraries Used
 
 - [Basic Pitch](https://github.com/spotify/basic-pitch) - Apache 2.0
