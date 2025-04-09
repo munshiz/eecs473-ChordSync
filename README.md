@@ -23,7 +23,7 @@ Enjoy fun and interactive guitar learning via the animated fretboard for visual 
 * 6x 480x320 3.5" TFT LCD Display w/ ILI9486 Driver
 * STM32H5 MCU
 * Various Custom PCBs:
-  <img width="443" alt="image" src="https://github.com/user-attachments/assets/ec217b8b-7c3b-47b8-9621-f648baa579b4" />
+* <img width="443" alt="image" src="https://github.com/user-attachments/assets/ec217b8b-7c3b-47b8-9621-f648baa579b4" />
   <img width="747" alt="image" src="https://github.com/user-attachments/assets/e4c7dd7c-77de-4e6b-a7c9-f3497cab553a" />
 * Lots of 3-D Printed Parts
 * Headphone Guitar Amp, we used a random one from Amazon.
