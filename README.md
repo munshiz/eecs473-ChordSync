@@ -58,4 +58,4 @@ Contributors names and contact info
 
 ## Acknowledgments
 
-EECS 473 FA24 ourse sStaff
+EECS 473 FA24 Course Staff
